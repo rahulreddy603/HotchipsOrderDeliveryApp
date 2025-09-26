@@ -45,7 +45,7 @@ const ContactComponent = () => {
         </div>
         <div className="text-center pt-4 border-t">
           <p className="text-sm text-gray-600">Email: {adminInfo.email}</p>
-          <p className="text-sm text-gray-600">Phone: {adminInfo.phone}</p>
+          
         </div>
       </div>
     </div>

@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import { useEffect } from 'react';
 import CartSummary from './CartSummary';
 import OrderSummary from './OrderSummary';
 import Suggestions from './Suggestions';
